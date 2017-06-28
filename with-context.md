@@ -1,4 +1,5 @@
 <style>
+@media screen
 .reveal pre {
     left: -12.5%;
     width: 125%;
